@@ -33,3 +33,6 @@ This bridges the gap straight from concept to modular manufacturing lines.
 What should we call this dual-tier kinetic toy line under the ecosystem?
 #MadEcosystem #MADWEAR #KineticToyProject #ProductDevelopment #KivaMaliME
 
+​Product WN Name: K9-GO Kinetic Modular Toy System
+​Tier 1 (Puppy Edition): The Teething & Gum-Soothing configuration utilizing medical-grade elastomer with weight-shifted wobble mechanics.
+​Tier 2 (Adult Edition): The Industrial-Strength / Ripstop ballistic fabric sleeve architecture for high-impact chewers.
